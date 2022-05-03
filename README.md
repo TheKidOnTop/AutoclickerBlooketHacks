@@ -1,4 +1,4 @@
-# Me
+# Read Me
 Auto Clicker Cause Why Not (100+ CPS)
 
 This Auto Clicker Can Click Up To 200 CPS With the right control.
